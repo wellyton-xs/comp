@@ -1,0 +1,17 @@
+# COMP
+
+this script compile a lot of your scripts, when you are learning.
+
+example:
+
+	./comp c
+
+output:
+
+	start compilation!
+	get: myfirstprogram.c
+	get target: myfirstprogram
+	-> compiling: myfirstprogram.c
+	% compiled: ./target/myfirstprogram
+	
+this command compile all your exercises and programs that you are writting when you are learning
